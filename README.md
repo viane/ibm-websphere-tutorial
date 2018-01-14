@@ -3,4 +3,4 @@
 personal beginer learing place for IBM websphere application server and z/OS
 
 Tabel of Content:
-- Document
+- ![Document](../reference%20document)
