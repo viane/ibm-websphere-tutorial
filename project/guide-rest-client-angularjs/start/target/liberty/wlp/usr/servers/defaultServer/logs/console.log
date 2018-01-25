@@ -1,0 +1,25 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+objc[74545]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/bin/java (0x10c2484c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x10c3064e0). One of the two will be used. Which one is undefined.
+Launching defaultServer (Open Liberty 17.0.0.4/wlp-1.0.19.201712061531) on Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_151-b12 (en_US)
+[AUDIT   ] CWWKE0001I: The server defaultServer has been launched.
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications. 
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://192.168.0.27:9080/
+[AUDIT   ] CWWKZ0001I: Application io.openliberty.guides.consumingrest-ajs started in 0.178 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [servlet-3.1, json-1.0, jsonp-1.0, jaxrs-2.0, jaxrsClient-2.0].
+[AUDIT   ] CWWKF0011I: The server defaultServer is ready to run a smarter planet.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://192.168.0.27:9080/
+[AUDIT   ] CWWKZ0009I: The application io.openliberty.guides.consumingrest-ajs has stopped successfully.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://192.168.0.27:9080/
+[AUDIT   ] CWWKZ0003I: The application io.openliberty.guides.consumingrest-ajs updated in 0.019 seconds.
+[err] File does not exist: ./src/resources/artists.json
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://192.168.0.27:9080/
+[AUDIT   ] CWWKZ0009I: The application io.openliberty.guides.consumingrest-ajs has stopped successfully.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://192.168.0.27:9080/
+[AUDIT   ] CWWKZ0003I: The application io.openliberty.guides.consumingrest-ajs updated in 0.022 seconds.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://192.168.0.27:9080/
+[AUDIT   ] CWWKZ0009I: The application io.openliberty.guides.consumingrest-ajs has stopped successfully.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://192.168.0.27:9080/
+[AUDIT   ] CWWKZ0003I: The application io.openliberty.guides.consumingrest-ajs updated in 0.020 seconds.
+[AUDIT   ] CWWKE0085I: The server defaultServer is stopping because the JVM is exiting.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://192.168.0.27:9080/
