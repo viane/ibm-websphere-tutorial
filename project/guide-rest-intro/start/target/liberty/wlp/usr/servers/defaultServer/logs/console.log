@@ -1,0 +1,8 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+objc[80284]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/bin/java (0x10b2c54c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x10b3834e0). One of the two will be used. Which one is undefined.
+Launching defaultServer (Open Liberty 17.0.0.4/wlp-1.0.19.201712061531) on Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_151-b12 (en_US)
+[AUDIT   ] CWWKE0001I: The server defaultServer has been launched.
+[WARNING ] CWWKF0009W: The server has not been configured to install any features.
+[AUDIT   ] CWWKF0011I: The server defaultServer is ready to run a smarter planet.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Wednesday, January 24, 2018 at 6:34 PM. The server defaultServer is shutting down.
+[AUDIT   ] CWWKE0036I: The server defaultServer stopped after 1.217 seconds.
