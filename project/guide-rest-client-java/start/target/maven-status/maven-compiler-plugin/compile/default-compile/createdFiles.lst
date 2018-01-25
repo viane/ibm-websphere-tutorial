@@ -1,0 +1,7 @@
+io/openliberty/guides/consumingrest/model/Album.class
+io/openliberty/guides/consumingrest/service/ArtistApplication.class
+io/openliberty/guides/consumingrest/service/Default.class
+io/openliberty/guides/consumingrest/Consumer.class
+io/openliberty/guides/consumingrest/service/ArtistResource.class
+io/openliberty/guides/consumingrest/model/Artist.class
+io/openliberty/guides/consumingrest/service/Reader.class

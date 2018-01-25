@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-rest-client-java/start/target/m2e-wtp/web-resources" targetInArchive="/"/>
+    <dir sourceOnDisk="/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-rest-client-java/start/src/main/webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-rest-client-java/start/target/classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="/Users/xiaoyuzhou/.m2/repository/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.9.1/jackson-jaxrs-json-provider-2.9.1.jar" targetInArchive="/WEB-INF/lib/jackson-jaxrs-json-provider-2.9.1.jar"/>
+    <file sourceOnDisk="/Users/xiaoyuzhou/.m2/repository/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.9.1/jackson-jaxrs-base-2.9.1.jar" targetInArchive="/WEB-INF/lib/jackson-jaxrs-base-2.9.1.jar"/>
+    <file sourceOnDisk="/Users/xiaoyuzhou/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.1/jackson-core-2.9.1.jar" targetInArchive="/WEB-INF/lib/jackson-core-2.9.1.jar"/>
+    <file sourceOnDisk="/Users/xiaoyuzhou/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.1/jackson-databind-2.9.1.jar" targetInArchive="/WEB-INF/lib/jackson-databind-2.9.1.jar"/>
+    <file sourceOnDisk="/Users/xiaoyuzhou/.m2/repository/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.1/jackson-module-jaxb-annotations-2.9.1.jar" targetInArchive="/WEB-INF/lib/jackson-module-jaxb-annotations-2.9.1.jar"/>
+    <file sourceOnDisk="/Users/xiaoyuzhou/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" targetInArchive="/WEB-INF/lib/jackson-annotations-2.9.0.jar"/>
+</archive>
