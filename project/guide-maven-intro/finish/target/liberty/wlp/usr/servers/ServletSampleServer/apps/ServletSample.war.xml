@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/finish/target/classes" targetInArchive="/WEB-INF/classes"/>
+    <dir sourceOnDisk="/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/finish/src/main/webapp" targetInArchive="/"/>
+</archive>

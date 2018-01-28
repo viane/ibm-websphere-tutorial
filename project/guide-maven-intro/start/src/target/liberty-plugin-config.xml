@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/start/src/target/liberty/wlp</installDirectory>
+    <serverDirectory>/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/start/src/target/liberty/wlp/usr/servers/ServletSampleServer</serverDirectory>
+    <userDirectory>/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/start/src/target/liberty/wlp/usr</userDirectory>
+    <serverOutputDirectory>/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/start/src/target/liberty/wlp/usr/servers/ServletSampleServer</serverOutputDirectory>
+    <serverName>ServletSampleServer</serverName>
+    <bootstrapProperties>
+        <app.context.root>ServletSample</app.context.root>
+        <default.http.port>9080</default.http.port>
+        <default.https.port>9443</default.https.port>
+    </bootstrapProperties>
+    <appsDirectory>dropins</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>true</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>ServletSample.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>io.openliberty</groupId>
+        <artifactId>openliberty-runtime</artifactId>
+        <version>RELEASE</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>/Users/xiaoyuzhou/.m2/repository/io/openliberty/openliberty-runtime/17.0.0.4/openliberty-runtime-17.0.0.4.zip</assemblyArchive>
+    <assemblyInstallDirectory>/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/start/src/target/liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>/Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/start/src/target/liberty/wlp/usr/servers/ServletSampleServer/configDropins/defaults/install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+</liberty-plugin-config>

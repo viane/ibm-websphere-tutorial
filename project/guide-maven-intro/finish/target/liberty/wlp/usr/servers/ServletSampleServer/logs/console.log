@@ -1,0 +1,25 @@
+objc[42445]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/bin/java (0x105fdb4c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x1060994e0). One of the two will be used. Which one is undefined.
+Launching ServletSampleServer (Open Liberty 17.0.0.4/wlp-1.0.19.201712061531) on Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_151-b12 (en_US)
+[AUDIT   ] CWWKE0001I: The server ServletSampleServer has been launched.
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications. 
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://192.168.0.27:9080/ServletSample/
+[AUDIT   ] CWWKZ0001I: Application ServletSample started in 0.179 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [servlet-3.1].
+[AUDIT   ] CWWKF0011I: The server ServletSampleServer is ready to run a smarter planet.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://192.168.0.27:9080/ServletSample/
+[AUDIT   ] CWWKZ0009I: The application ServletSample has stopped successfully.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://192.168.0.27:9080/ServletSample/
+[AUDIT   ] CWWKZ0003I: The application ServletSample updated in 0.032 seconds.
+[AUDIT   ] CWWKG0016I: Starting server configuration update.
+[AUDIT   ] CWWKG0018I: The server configuration was not updated. No functional changes were detected.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://192.168.0.27:9080/ServletSample/
+[AUDIT   ] CWWKZ0009I: The application ServletSample has stopped successfully.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://192.168.0.27:9080/ServletSample/
+[AUDIT   ] CWWKZ0003I: The application ServletSample updated in 0.021 seconds.
+[AUDIT   ] CWWKG0016I: Starting server configuration update.
+[AUDIT   ] CWWKG0018I: The server configuration was not updated. No functional changes were detected.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Sunday, January 28, 2018 at 3:00 AM. The server ServletSampleServer is shutting down.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://192.168.0.27:9080/ServletSample/
+[AUDIT   ] CWWKZ0009I: The application ServletSample has stopped successfully.
+[AUDIT   ] CWWKE0036I: The server ServletSampleServer stopped after 3 minutes, 18.619 seconds.

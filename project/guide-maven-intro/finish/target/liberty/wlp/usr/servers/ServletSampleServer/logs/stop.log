@@ -1,0 +1,13 @@
+
+arg0=ServletSampleServer
+arg1=--pid=
+arg2=--stop
+exit=1
+
+                 Java home:  /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre
+              Install root:  /Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/finish/target/liberty/wlp/
+          System libraries:  /Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/finish/target/liberty/wlp/lib/
+                 User root:  /Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/finish/target/liberty/wlp/usr/
+                    Config:  /Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/finish/target/liberty/wlp/usr/servers/ServletSampleServer/
+                    Output:  /Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/finish/target/liberty/wlp/usr/servers/ServletSampleServer/
+

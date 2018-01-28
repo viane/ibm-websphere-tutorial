@@ -1,0 +1,33 @@
+********************************************************************************
+product = Open Liberty 17.0.0.4 (wlp-1.0.19.201712061531)
+wlp.install.dir = /Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/start/src/target/liberty/wlp/
+java.home = /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre
+java.version = 1.8.0_151
+java.runtime = Java(TM) SE Runtime Environment (1.8.0_151-b12)
+os = Mac OS X (10.13.3; x86_64) (en_US)
+process = 71856@Xiaoyus-iMac.local
+********************************************************************************
+[1/28/18 2:26:14:278 EST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server ServletSampleServer has been launched.
+[1/28/18 2:26:14:899 EST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 0.89 seconds
+[1/28/18 2:26:14:930 EST] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[1/28/18 2:26:15:243 EST] 00000011 com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: Monitoring dropins for applications. 
+[1/28/18 2:26:15:250 EST] 0000001b com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0219I: TCP Channel defaultHttpEndpoint has been started and is now listening for requests on host localhost  (IPv4: 127.0.0.1) port 9080.
+[1/28/18 2:26:15:360 EST] 00000020 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application ServletSample.
+[1/28/18 2:26:15:499 EST] 00000020 com.ibm.ws.session.WASSessionCore                            I SESN8501I: The session manager did not find a persistent storage location; HttpSession objects will be stored in the local application server's memory.
+[1/28/18 2:26:15:508 EST] 00000020 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: ServletSample.
+[1/28/18 2:26:15:509 EST] 00000020 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module ServletSample has been bound to default_host.
+[1/28/18 2:26:15:510 EST] 00000020 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9080/ServletSample/
+[1/28/18 2:26:15:513 EST] 00000020 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: Application ServletSample started in 0.153 seconds.
+[1/28/18 2:26:15:515 EST] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [jsp-2.3, servlet-3.1, el-3.0].
+[1/28/18 2:26:15:516 EST] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 0.616 seconds.
+[1/28/18 2:26:15:516 EST] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: The server ServletSampleServer is ready to run a smarter planet.
+[1/28/18 2:26:15:647 EST] 00000023 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/ServletSample
+[1/28/18 2:26:15:659 EST] 00000023 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[1/28/18 2:26:15:685 EST] 00000024 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at /Users/xiaoyuzhou/Documents/Other/ibm-websphere-tutorial/project/guide-maven-intro/start/src/target/liberty/wlp/usr/servers/ServletSampleServer/logs/state/plugin-cfg.xml.
+[1/28/18 2:26:16:601 EST] 0000000f com.ibm.ws.kernel.launch.internal.ServerCommandListener      A CWWKE0055I: Server shutdown requested on Sunday, January 28, 2018 at 2:26 AM. The server ServletSampleServer is shutting down.
+[1/28/18 2:26:16:604 EST] 0000002f com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[1/28/18 2:26:16:606 EST] 00000030 com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0220I: TCP Channel defaultHttpEndpoint has stopped listening for requests on host localhost  (IPv4: 127.0.0.1) port 9080.
+[1/28/18 2:26:16:607 EST] 00000030 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9080/ServletSample/
+[1/28/18 2:26:16:608 EST] 0000002f com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Server quiesce complete.
+[1/28/18 2:26:16:621 EST] 00000025 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application ServletSample has stopped successfully.
+[1/28/18 2:26:16:775 EST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server ServletSampleServer stopped after 2.766 seconds.
